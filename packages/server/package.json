@@ -1,0 +1,12 @@
+{
+  "name": "@voidy/server",
+  "version": "0.1.0",
+  "type": "module",
+  "module": "src/index.ts",
+  "scripts": {
+    "dev": "bun --watch ."
+  },
+  "dependencies": {
+    "hono": "^4.6.3"
+  }
+}
